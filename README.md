@@ -1,6 +1,6 @@
-# 🍎 Kalkulator Kebutuhan Kalori Harian (Java)
+# Kalkulator Kebutuhan Kalori Harian (Java)
 
-## 🌟 Deskripsi Proyek
+##  Deskripsi Proyek
 
 Proyek ini adalah implementasi kalkulator sederhana menggunakan Java untuk menghitung **Total Daily Energy Expenditure (TDEE)**, yaitu perkiraan total kebutuhan kalori harian seseorang.
 
@@ -50,4 +50,4 @@ Dokumentasi API lengkap untuk semua kelas dan *method* dapat dilihat dengan memb
 
 ## 🧑‍💻 Kontributor
 
-* **[Ganti dengan Nama Anda]** - Pengembang
+* **[Dzaki Shofian Hizbullah** - Pengembang
