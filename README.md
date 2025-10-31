@@ -36,15 +36,12 @@ Program dijalankan melalui *console* dan memerlukan input dari pengguna.
 
 ### Faktor Aktivitas
 
-| Pilihan | Tingkat Aktivitas | Faktor Pengali |
-| :--- | :--- | :--- |
-| **1** | Rendah | 1.2 |
-| **2** | Sedang | 1.55 |
-| **3** | Tinggi | 1.725 |
-
+|  Pilihan| Tingkat Aktivitas | Faktor Pengali |
+|:-------| :--- | :--- |
+| **1**  | Rendah | 1.2 |
+| **2**  | Sedang | 1.55 |
+| **3**  | Tinggi | 1.725 |
 ---
-
-## 📖 Dokumentasi JavaDoc
 
 Dokumentasi API lengkap untuk semua kelas dan *method* dapat dilihat dengan membuka *file* **`index.html`** yang terletak di folder **`docs`** proyek ini.
 
