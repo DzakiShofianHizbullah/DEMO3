@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Kelas ini bertanggung jawab atas interaksi I/O (input/output) dengan pengguna
  * dan mengoordinasikan objek UserProfile dan KaloriCalculator.
  *
- * @author [Ganti dengan Nama Anda]
+ * @author [Dzaki Shofian Hizbuallah]
  * @version 1.0
  */
 public class Main {
@@ -13,7 +13,7 @@ public class Main {
      * Metode utama yang dieksekusi saat program dimulai.
      * Metode ini mengambil input pengguna, melakukan perhitungan, dan menampilkan hasilnya.
      *
-     * @param args Argumen baris perintah (tidak digunakan dalam program ini).
+     * @param args Argumen baris perintah.
      */
     public static void main(String[] args) {
         // PERBAIKAN: Hanya satu 'new' saat membuat objek Scanner
