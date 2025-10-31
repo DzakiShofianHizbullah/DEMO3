@@ -33,8 +33,8 @@ public class Main {
         int usia = input.nextInt();
 
         System.out.println("Pilih tingkat aktivitas: ");
-        System.out.println("1. Rendah");
-        System.out.println("2. Sedang");
+        System.out.println("1. Rndh");
+        System.out.println("2. Sdng");
         System.out.println("3. Tinggi");
         int aktivitas = input.nextInt();
 
@@ -49,7 +49,7 @@ public class Main {
         double totalKalori = kalkulator.hitungKaloriHarian(user);
 
         // --- Output Hasil ---
-        System.out.println("\nKebutuhan kalori harian Anda: " + totalKalori + " kkal");
+        System.out.println("\nButuh kalori harian Anda: " + totalKalori + " kkal");
 
         input.close();
     }
