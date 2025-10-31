@@ -49,7 +49,7 @@ public class Main {
         double totalKalori = kalkulator.hitungKaloriHarian(user);
 
         // --- Output Hasil ---
-        System.out.println("\nButuh kalori harian Anda: " + totalKalori + " kkal");
+        System.out.println("\nButuh kalori harian kamu: " + totalKalori + " kkal");
 
         input.close();
     }
